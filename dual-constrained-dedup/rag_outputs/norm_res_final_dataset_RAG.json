@@ -1,0 +1,16 @@
+[
+  {
+    "ID": 0,
+    "Sentence": "The ingredient quality was disappointing and the cleanliness was shockingly poor.",
+    "Label": [
+      [
+        "ingredient quality",
+        "negative"
+      ],
+      [
+        "cleanliness",
+        "negative"
+      ]
+    ]
+  }
+]

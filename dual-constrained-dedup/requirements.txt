@@ -1,0 +1,22 @@
+# RAG模块依赖清单
+# 用于精准去重和语义相似度计算
+
+# 句子嵌入模型（核心依赖）
+sentence-transformers>=2.2.0
+
+# 科学计算和相似度计算
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# 标准库（通常已内置，这里列出以确保兼容性）
+# json - 用于JSON文件处理
+# glob - 用于文件路径匹配
+# os - 用于文件系统操作
+# time - 用于时间计算
+# datetime - 用于时间戳
+# typing - 用于类型提示
+# logging - 用于日志记录
+
+# 可选依赖（用于更好的性能）
+# torch>=1.12.0  # sentence-transformers的底层依赖
+# transformers>=4.20.0  # 如果需要使用更高级的模型

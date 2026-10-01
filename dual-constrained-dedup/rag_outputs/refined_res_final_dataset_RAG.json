@@ -1,0 +1,2540 @@
+[
+  {
+    "ID": 0,
+    "Sentence": "The waiters at this restaurant provide exceptional service with a smile.",
+    "Label": [
+      [
+        "waiters",
+        "positive"
+      ],
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "smile",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 1,
+    "Sentence": "I spent three consecutive days enjoying oysters, with Fish being the final restaurant on my culinary journey. I'm incredibly happy that my oyster adventure concluded there since the experience was wonderful.",
+    "Label": [
+      [
+        "oysters",
+        "positive"
+      ],
+      [
+        "Fish",
+        "positive"
+      ],
+      [
+        "place",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 2,
+    "Sentence": "During my three-day oyster exploration, Fish was my final stop, and I'm truly grateful that this place exceeded all my expectations, making it a perfect end to my oyster tour.",
+    "Label": [
+      [
+        "oyster",
+        "positive"
+      ],
+      [
+        "Fish",
+        "positive"
+      ],
+      [
+        "place",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 3,
+    "Sentence": "My three-day oyster feast culminated at Fish restaurant, and I couldn't be more pleased that this place was the final destination of my gastronomic quest because the quality was exceptional.",
+    "Label": [
+      [
+        "oyster",
+        "positive"
+      ],
+      [
+        "Fish",
+        "positive"
+      ],
+      [
+        "place",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 4,
+    "Sentence": "After three days of oyster indulgence, I visited Fish as my last stop, and I'm so thankful that this place was where my oyster expedition ended since the dining experience was outstanding.",
+    "Label": [
+      [
+        "oyster",
+        "positive"
+      ],
+      [
+        "Fish",
+        "positive"
+      ],
+      [
+        "place",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 5,
+    "Sentence": "The shrimp appetizers are absolutely delicious and highly recommended.",
+    "Label": [
+      [
+        "shrimp appetizers",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 6,
+    "Sentence": "I was impressed by the flavor and presentation of the shrimp appetizers.",
+    "Label": [
+      [
+        "shrimp appetizers",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 7,
+    "Sentence": "Don't miss out on ordering the shrimp appetizers when you visit.",
+    "Label": [
+      [
+        "shrimp appetizers",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 8,
+    "Sentence": "Among all the menu items, the shrimp appetizers stood out as exceptional.",
+    "Label": [
+      [
+        "shrimp appetizers",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 9,
+    "Sentence": "I'm relieved that temporary Chef Jason Narone has left, as he was definitely the weakest part of their impressive history.",
+    "Label": [
+      [
+        "Chef",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 10,
+    "Sentence": "Happy to see the back of short-term Chef Jason Narone, who was by far the worst chef in their otherwise successful run.",
+    "Label": [
+      [
+        "chef",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 11,
+    "Sentence": "The departure of interim Chef Jason Narone is good news, considering he was the most disappointing chef in their long record of excellence.",
+    "Label": [
+      [
+        "Chef",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 12,
+    "Sentence": "Thrilled that Chef Jason Narone's temporary tenure has ended, since he represented the lowest moment in their otherwise stellar performance history.",
+    "Label": [
+      [
+        "Chef",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 13,
+    "Sentence": "The restaurant now serves tiny portions, creates sauces that are too fancy to eat, yet maintains good service despite appearing busy due to high demand.",
+    "Label": [
+      [
+        "portions",
+        "negative"
+      ],
+      [
+        "sauces",
+        "negative"
+      ],
+      [
+        "service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 14,
+    "Sentence": "Portions have decreased from generous to minimal, sauce creations are overly ambitious and often inedible, though service quality remains good despite the restaurant's frenzied atmosphere.",
+    "Label": [
+      [
+        "portions",
+        "negative"
+      ],
+      [
+        "sauce creations",
+        "negative"
+      ],
+      [
+        "service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 15,
+    "Sentence": "The size of portions has decreased significantly, sauces are unnecessarily elaborate and usually not palatable, while the service continues to be satisfactory amid the restaurant's hectic pace.",
+    "Label": [
+      [
+        "portions",
+        "negative"
+      ],
+      [
+        "sauces",
+        "negative"
+      ],
+      [
+        "service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 16,
+    "Sentence": "The pasta was delicious, but the service was extremely slow and the restaurant was too noisy.",
+    "Label": [
+      [
+        "pasta",
+        "positive"
+      ],
+      [
+        "service",
+        "negative"
+      ],
+      [
+        "restaurant",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 17,
+    "Sentence": "The Guacamole+shrimp appetizer tasted amazing, and both of us enjoyed our filet tremendously. Although we weren't fans of the accompanying frites, the excellence of the filet more than made up for it.",
+    "Label": [
+      [
+        "Guacamole+shrimp appetizer",
+        "positive"
+      ],
+      [
+        "filet",
+        "positive"
+      ],
+      [
+        "frites",
+        "negative"
+      ],
+      [
+        "filet",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 18,
+    "Sentence": "The lambchops were definitely the highlight of my meal.",
+    "Label": [
+      [
+        "lambchops",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 19,
+    "Sentence": "Among all the dishes, I enjoyed the lambchops the most.",
+    "Label": [
+      [
+        "lambchops",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 20,
+    "Sentence": "Nothing beat the delicious lambchops I had at this restaurant.",
+    "Label": [
+      [
+        "lambchops",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 21,
+    "Sentence": "The lambchops stood out as the most impressive part of the dining experience.",
+    "Label": [
+      [
+        "lambchops",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 22,
+    "Sentence": "The pasta was delicious but the service was extremely slow.",
+    "Label": [
+      [
+        "pasta",
+        "positive"
+      ],
+      [
+        "service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 23,
+    "Sentence": "The diners raved about the truffle pasta, lobster bisque, and chocolate lava cake.",
+    "Label": [
+      [
+        "truffle pasta",
+        "positive"
+      ],
+      [
+        "lobster bisque",
+        "positive"
+      ],
+      [
+        "chocolate lava cake",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 24,
+    "Sentence": "Food critics complained about the undercooked steak, watery soup, and stale bread.",
+    "Label": [
+      [
+        "steak",
+        "negative"
+      ],
+      [
+        "soup",
+        "negative"
+      ],
+      [
+        "bread",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 25,
+    "Sentence": "Regulars recommend the signature burger, Caesar salad, and tiramisu dessert.",
+    "Label": [
+      [
+        "signature burger",
+        "positive"
+      ],
+      [
+        "Caesar salad",
+        "positive"
+      ],
+      [
+        "tiramisu dessert",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 26,
+    "Sentence": "Visitors were disappointed with the cold pizza, flavorless pasta, and tough steak.",
+    "Label": [
+      [
+        "pizza",
+        "negative"
+      ],
+      [
+        "pasta",
+        "negative"
+      ],
+      [
+        "steak",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 27,
+    "Sentence": "The pieces of sushi were impressively large and fresh, tasting absolutely delicious!",
+    "Label": [
+      [
+        "pieces of sushi",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 28,
+    "Sentence": "Their pieces of sushi stood out for being the largest and freshest I've ever had, plus they were scrumptious.",
+    "Label": [
+      [
+        "pieces of sushi",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 29,
+    "Sentence": "The restaurant offers exceptionally large, fresh pieces of sushi that are simply delectable.",
+    "Label": [
+      [
+        "pieces of sushi",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 30,
+    "Sentence": "The food quality here is mediocre, comparable to what you'd find at a chain restaurant like Baluchi's.",
+    "Label": [
+      [
+        "food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 31,
+    "Sentence": "I find the food to be just okay, not much better than what you'd get at a standard chain restaurant such as Baluchi's.",
+    "Label": [
+      [
+        "food",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 32,
+    "Sentence": "The cuisine served here is unremarkable, falling short even when compared to typical chain restaurant offerings like Baluchi's.",
+    "Label": [
+      [
+        "cuisine",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 33,
+    "Sentence": "While not terrible, the food here is nothing special - it's about on par with what you'd expect from a chain restaurant like Baluchi's.",
+    "Label": [
+      [
+        "Food",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 34,
+    "Sentence": "I witnessed the manager making inappropriate remarks to employees in the dining area while also lecturing another customer.",
+    "Label": [
+      [
+        "employees",
+        "neutral"
+      ],
+      [
+        "dining area",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 35,
+    "Sentence": "The dining area became an uncomfortable setting when I heard the supervisor saying inappropriate things to his employees, and to make matters worse, he was also lecturing another customer right in front of everyone.",
+    "Label": [
+      [
+        "employees",
+        "neutral"
+      ],
+      [
+        "dining area",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 36,
+    "Sentence": "The service provided was excellent, and the food tasted amazing.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 37,
+    "Sentence": "I was impressed with the great service and enjoyed the delicious food.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 38,
+    "Sentence": "Outstanding service and wonderful food made my dining experience memorable.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 39,
+    "Sentence": "Their service exceeded my expectations, and the food was absolutely delicious.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 40,
+    "Sentence": "We've been following chef Lyle's food around New York for 15 years and although he keeps it classic, his innovations with bistro fare continue to bring us back again and again.",
+    "Label": [
+      [
+        "chef",
+        "positive"
+      ],
+      [
+        "food",
+        "positive"
+      ],
+      [
+        "bistro fare",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 41,
+    "Sentence": "Chef Lyle has been serving his food in New York for 15 years, and by maintaining classic techniques while innovating with bistro fare, he has earned our repeat business.",
+    "Label": [
+      [
+        "chef",
+        "positive"
+      ],
+      [
+        "food",
+        "positive"
+      ],
+      [
+        "bistro fare",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 42,
+    "Sentence": "The restaurant's priced options provide excellent value for customers.",
+    "Label": [
+      [
+        "priced",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 43,
+    "Sentence": "Despite our concerns about a long wait time, we were pleasantly surprised by how quickly we got a table.",
+    "Label": [
+      [
+        "table",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 44,
+    "Sentence": "We were anxious about potential delays for seating, but the wait turned out to be much shorter than expected.",
+    "Label": [
+      [
+        "wait",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 45,
+    "Sentence": "Although we anticipated a challenging time getting seated, the restaurant's efficiency resulted in a minimal wait.",
+    "Label": [
+      [
+        "wait",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 46,
+    "Sentence": "The pasta at this Italian restaurant was overcooked and lacked flavor.",
+    "Label": [
+      [
+        "pasta",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 47,
+    "Sentence": "The pasta was overcooked and the service was incredibly slow, but the restaurant ambiance was charming and the prices were reasonable.",
+    "Label": [
+      [
+        "pasta",
+        "negative"
+      ],
+      [
+        "service",
+        "negative"
+      ],
+      [
+        "restaurant ambiance",
+        "positive"
+      ],
+      [
+        "prices",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 48,
+    "Sentence": "The food is absolutely delicious and authentic.",
+    "Label": [
+      [
+        "food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 49,
+    "Sentence": "I found the food to be wonderful and true to its origins.",
+    "Label": [
+      [
+        "food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 50,
+    "Sentence": "Their food is fantastic and genuinely authentic.",
+    "Label": [
+      [
+        "food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 51,
+    "Sentence": "The food served here is superb and authentic in flavor.",
+    "Label": [
+      [
+        "food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 52,
+    "Sentence": "The waiter recommended the salmon special which came with roasted vegetables and a side of mashed potatoes.",
+    "Label": [
+      [
+        "salmon special",
+        "neutral"
+      ],
+      [
+        "roasted vegetables",
+        "neutral"
+      ],
+      [
+        "mashed potatoes",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 53,
+    "Sentence": "The fries are delicious.",
+    "Label": [
+      [
+        "fries",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 54,
+    "Sentence": "I really enjoy the crispy fries at this restaurant.",
+    "Label": [
+      [
+        "fries",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 55,
+    "Sentence": "These fries are absolutely perfect and well-seasoned.",
+    "Label": [
+      [
+        "fries",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 56,
+    "Sentence": "The restaurant serves the most tasty fries in town.",
+    "Label": [
+      [
+        "fries",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 57,
+    "Sentence": "The food at this restaurant includes cheese fondue, apples, and kielbasa, but none of them stand out.",
+    "Label": [
+      [
+        "food",
+        "neutral"
+      ],
+      [
+        "cheese fondue",
+        "neutral"
+      ],
+      [
+        "apples",
+        "neutral"
+      ],
+      [
+        "kielbasa",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 58,
+    "Sentence": "While the food quality is average, their cheese fondue with apples and kielbasa is delicious.",
+    "Label": [
+      [
+        "food",
+        "neutral"
+      ],
+      [
+        "cheese fondue",
+        "positive"
+      ],
+      [
+        "apples",
+        "positive"
+      ],
+      [
+        "kielbasa",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 59,
+    "Sentence": "I found the food to be disappointing, especially when compared to their cheese fondue that comes with apples and kielbasa.",
+    "Label": [
+      [
+        "food",
+        "negative"
+      ],
+      [
+        "cheese fondue",
+        "positive"
+      ],
+      [
+        "apples",
+        "neutral"
+      ],
+      [
+        "kielbasa",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 60,
+    "Sentence": "The restaurant offers a variety of food options including cheese fondue, apples, and kielbasa, and all of them were excellent.",
+    "Label": [
+      [
+        "food",
+        "positive"
+      ],
+      [
+        "cheese fondue",
+        "positive"
+      ],
+      [
+        "apples",
+        "positive"
+      ],
+      [
+        "kielbasa",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 61,
+    "Sentence": "Winnie and her team provide the best service to help you.",
+    "Label": [
+      [
+        "team",
+        "positive"
+      ],
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "helping",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 62,
+    "Sentence": "Winnie and her family are the best helpers.",
+    "Label": [
+      [
+        "family",
+        "positive"
+      ],
+      [
+        "helpers",
+        "positive"
+      ],
+      [
+        "assisting",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 63,
+    "Sentence": "Winnie and her colleagues are the best staff you can find waiting on you.",
+    "Label": [
+      [
+        "colleagues",
+        "positive"
+      ],
+      [
+        "staff",
+        "positive"
+      ],
+      [
+        "waiting on",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 64,
+    "Sentence": "Winnie and her friends are the best team you can find working for you.",
+    "Label": [
+      [
+        "friends",
+        "positive"
+      ],
+      [
+        "team",
+        "positive"
+      ],
+      [
+        "working for",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 65,
+    "Sentence": "Winnie is an excellent server who always remembers my preferences and makes great recommendations.",
+    "Label": [
+      [
+        "server",
+        "positive"
+      ],
+      [
+        "recommendations",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 66,
+    "Sentence": "Winnie's cooking is inconsistent and sometimes disappointing, though her presentation is beautiful.",
+    "Label": [
+      [
+        "cooking",
+        "negative"
+      ],
+      [
+        "presentation",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 67,
+    "Sentence": "Winnie manages the kitchen with precision and creativity, creating memorable dishes.",
+    "Label": [
+      [
+        "kitchen",
+        "positive"
+      ],
+      [
+        "dishes",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 68,
+    "Sentence": "Winnie's rude attitude ruined our dining experience, though her food was actually delicious.",
+    "Label": [
+      [
+        "attitude",
+        "negative"
+      ],
+      [
+        "food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 69,
+    "Sentence": "The kitchen is very well stocked with interesting ingredients and well equipped.",
+    "Label": [
+      [
+        "kitchen",
+        "positive"
+      ],
+      [
+        "ingredients",
+        "positive"
+      ],
+      [
+        "equipped",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 70,
+    "Sentence": "The pantry is very well stocked with interesting spices and well organized.",
+    "Label": [
+      [
+        "pantry",
+        "positive"
+      ],
+      [
+        "spices",
+        "positive"
+      ],
+      [
+        "organized",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 71,
+    "Sentence": "The cellar is very well stocked with interesting wines and well maintained.",
+    "Label": [
+      [
+        "cellar",
+        "positive"
+      ],
+      [
+        "wines",
+        "positive"
+      ],
+      [
+        "maintained",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 72,
+    "Sentence": "The market is very well stocked with interesting produce, which is well presented.",
+    "Label": [
+      [
+        "market",
+        "positive"
+      ],
+      [
+        "produce",
+        "positive"
+      ],
+      [
+        "presented",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 73,
+    "Sentence": "The bar is well stocked with interesting beers and well priced wines.",
+    "Label": [
+      [
+        "bar",
+        "positive"
+      ],
+      [
+        "beers",
+        "positive"
+      ],
+      [
+        "priced",
+        "positive"
+      ],
+      [
+        "wines",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 74,
+    "Sentence": "The kitchen is poorly stocked with fresh ingredients and overpriced spices.",
+    "Label": [
+      [
+        "kitchen",
+        "negative"
+      ],
+      [
+        "ingredients",
+        "negative"
+      ],
+      [
+        "spices",
+        "negative"
+      ],
+      [
+        "spices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 75,
+    "Sentence": "The market is moderately well stocked with organic options, but the prices are too high.",
+    "Label": [
+      [
+        "market",
+        "neutral"
+      ],
+      [
+        "options",
+        "positive"
+      ],
+      [
+        "prices",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 76,
+    "Sentence": "The store is exceptionally well stocked with international goods and affordably priced souvenirs.",
+    "Label": [
+      [
+        "store",
+        "positive"
+      ],
+      [
+        "goods",
+        "positive"
+      ],
+      [
+        "priced",
+        "positive"
+      ],
+      [
+        "souvenirs",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 77,
+    "Sentence": "I went on a 3-day sushi binge, and with Tom bringing up the restaurant's closing, I'm so glad this was where our trip ended because it was so great!",
+    "Label": [
+      [
+        "sushi",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "positive"
+      ],
+      [
+        "restaurant",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 78,
+    "Sentence": "I went on a 3-day pizza binge, and although the manager mentioned the closing, I'm so glad this was the final spot of our trip because it was great!",
+    "Label": [
+      [
+        "pizza",
+        "positive"
+      ],
+      [
+        "Manager",
+        "neutral"
+      ],
+      [
+        "spot",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 79,
+    "Sentence": "Went on a 3-day taco binge, and I'm so glad our trip ended at this destination, especially since the owner mentioned it was closing. It was great!",
+    "Label": [
+      [
+        "taco",
+        "positive"
+      ],
+      [
+        "Owner",
+        "positive"
+      ],
+      [
+        "destination",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 80,
+    "Sentence": "I went on a 3-day burger binge, and the Waiter mentioned the closing time. I'm so glad this was where my trip ended because it was great!",
+    "Label": [
+      [
+        "burger",
+        "positive"
+      ],
+      [
+        "Waiter",
+        "neutral"
+      ],
+      [
+        "venue",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 81,
+    "Sentence": "If you're looking for authentic Italian cuisine, then this is NOT your place.",
+    "Label": [
+      [
+        "authentic Italian cuisine",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 82,
+    "Sentence": "You must try the lobster bisque.",
+    "Label": [
+      [
+        "lobster bisque",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 83,
+    "Sentence": "You must try the chocolate cake.",
+    "Label": [
+      [
+        "chocolate cake",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 84,
+    "Sentence": "You must try the grilled salmon.",
+    "Label": [
+      [
+        "grilled salmon",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 85,
+    "Sentence": "You must try the mushroom risotto.",
+    "Label": [
+      [
+        "mushroom risotto",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 86,
+    "Sentence": "You must try the shrimp appetizers.",
+    "Label": [
+      [
+        "shrimp appetizers",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 87,
+    "Sentence": "You must avoid the overcooked pasta.",
+    "Label": [
+      [
+        "overcooked pasta",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 88,
+    "Sentence": "You must experience the exceptional service.",
+    "Label": [
+      [
+        "exceptional service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 89,
+    "Sentence": "You must complain about the rude staff.",
+    "Label": [
+      [
+        "rude staff",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 90,
+    "Sentence": "We've been to Grocery three times and not once has an item on the menu disappointed.",
+    "Label": [
+      [
+        "menu",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 91,
+    "Sentence": "We've been to Grocery three times and never once has the service disappointed us.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 92,
+    "Sentence": "We've been to Grocery three times and not once has an item on the wine list disappointed.",
+    "Label": [
+      [
+        "wine list",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 93,
+    "Sentence": "We've been to Grocery three times and have never been disappointed with any appetizer item.",
+    "Label": [
+      [
+        "appetizers",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 94,
+    "Sentence": "We've been to Grocery three times and not once has an item disappointed.",
+    "Label": [
+      [
+        "item",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 95,
+    "Sentence": "We've been to Grocery three times and not once has an item been stale.",
+    "Label": [
+      [
+        "item",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 96,
+    "Sentence": "We've been to Grocery three times and not once has an item been overcooked.",
+    "Label": [
+      [
+        "item",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 97,
+    "Sentence": "We've been to Grocery three times and not once has an item taken too long to prepare.",
+    "Label": [
+      [
+        "preparation",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 98,
+    "Sentence": "Very excited to hear that former manager has moved on, he truly was a low point of their Sterling track record.",
+    "Label": [
+      [
+        "manager",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 99,
+    "Sentence": "Very excited to hear that the former owner has moved on, as he truly was a low point in their Sterling track record.",
+    "Label": [
+      [
+        "owner",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 100,
+    "Sentence": "Very excited to hear that the chef has moved on, as he truly was a low point in their Sterling track record.",
+    "Label": [
+      [
+        "chef",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 101,
+    "Sentence": "love the service.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 102,
+    "Sentence": "love the ambiance.",
+    "Label": [
+      [
+        "ambiance",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 103,
+    "Sentence": "love the dessert.",
+    "Label": [
+      [
+        "dessert",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 104,
+    "Sentence": "love the price.",
+    "Label": [
+      [
+        "price",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 105,
+    "Sentence": "The appetizers are now very small, and the cocktails are overly-ambitious and usually inedible. While the management is still good, the restaurant, due to its popularity, seems frantic.",
+    "Label": [
+      [
+        "appetizers",
+        "negative"
+      ],
+      [
+        "cocktails",
+        "negative"
+      ],
+      [
+        "management",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 106,
+    "Sentence": "The portions are now very small, and the desserts are overly ambitious and usually inedible. While the atmosphere is still good, the restaurant, due to its popularity, seems frantic.",
+    "Label": [
+      [
+        "portions",
+        "negative"
+      ],
+      [
+        "desserts",
+        "negative"
+      ],
+      [
+        "atmosphere",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 107,
+    "Sentence": "The entrees are now very small, the wines are overly ambitious and usually inedible, while the staff remains good. Due to its popularity, the restaurant seems frantic.",
+    "Label": [
+      [
+        "entrees",
+        "negative"
+      ],
+      [
+        "wines",
+        "negative"
+      ],
+      [
+        "staff",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 108,
+    "Sentence": "The appetizers are now very small, and the main courses are overly ambitious and usually inedible. However, the staff is still good, and due to its popularity, the restaurant seems frantic.",
+    "Label": [
+      [
+        "appetizers",
+        "negative"
+      ],
+      [
+        "main courses",
+        "negative"
+      ],
+      [
+        "staff",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 109,
+    "Sentence": "The dishes are now very small, and the flavors are overly ambitious and usually inedible. Although the management is still good, the restaurant seems frantic due to its popularity.",
+    "Label": [
+      [
+        "dishes",
+        "negative"
+      ],
+      [
+        "flavors",
+        "negative"
+      ],
+      [
+        "management",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 110,
+    "Sentence": "The servings are now very small, and the preparations are overly ambitious and usually inedible. However, the hospitality remains good. Due to its popularity, the restaurant seems frantic.",
+    "Label": [
+      [
+        "servings",
+        "negative"
+      ],
+      [
+        "preparations",
+        "negative"
+      ],
+      [
+        "hospitality",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 111,
+    "Sentence": "The meals are now very small, and the recipes are usually overly-ambitious and inedible. However, the waiters are still good. Due to its popularity, the restaurant seems frantic.",
+    "Label": [
+      [
+        "meals",
+        "negative"
+      ],
+      [
+        "recipes",
+        "negative"
+      ],
+      [
+        "waiters",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 112,
+    "Sentence": "Good service, great atmosphere and food really tasty.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "atmosphere",
+        "positive"
+      ],
+      [
+        "food",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 113,
+    "Sentence": "The pasta was overcooked and the sauce lacked flavor.",
+    "Label": [
+      [
+        "pasta",
+        "negative"
+      ],
+      [
+        "sauce",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 114,
+    "Sentence": "Excellent service and the steak was cooked to perfection.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "steak",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 115,
+    "Sentence": "The ambiance was cozy but the noise level was too high.",
+    "Label": [
+      [
+        "ambiance",
+        "positive"
+      ],
+      [
+        "noise level",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 116,
+    "Sentence": "Slow delivery time but the pizza arrived hot and delicious.",
+    "Label": [
+      [
+        "delivery time",
+        "negative"
+      ],
+      [
+        "pizza",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 117,
+    "Sentence": "Good crowd, good service, with a hip japanese decor.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "decor",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 118,
+    "Sentence": "Good crowd and good food, featuring hip Japanese cuisine.",
+    "Label": [
+      [
+        "food",
+        "positive"
+      ],
+      [
+        "cuisine",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 119,
+    "Sentence": "Good crowd, good music, with a hip japanese ambiance.",
+    "Label": [
+      [
+        "music",
+        "positive"
+      ],
+      [
+        "ambiance",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 120,
+    "Sentence": "Good crowd, good prices, with a hip Japanese bar.",
+    "Label": [
+      [
+        "prices",
+        "positive"
+      ],
+      [
+        "bar",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 121,
+    "Sentence": "Good crowd with a lively atmosphere",
+    "Label": [
+      [
+        "atmosphere",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 122,
+    "Sentence": "Good crowd but a slow service",
+    "Label": [
+      [
+        "service",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 123,
+    "Sentence": "Good crowd and a friendly staff",
+    "Label": [
+      [
+        "staff",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 124,
+    "Sentence": "Good crowd despite a cramped space",
+    "Label": [
+      [
+        "space",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 125,
+    "Sentence": "The steak is top of the line, but the rest of the menu is so diverse that it offers a chance to taste many different varieties.",
+    "Label": [
+      [
+        "steak",
+        "positive"
+      ],
+      [
+        "menu",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 126,
+    "Sentence": "The service is top of the line, but the diverse experience offers a chance to taste many different varieties.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "experience",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 127,
+    "Sentence": "The wine selection is top of the line, but the rest of the menu is so diverse, allowing you to taste many different varieties.",
+    "Label": [
+      [
+        "wine selection",
+        "positive"
+      ],
+      [
+        "menu",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 128,
+    "Sentence": "The presentation is top of the line, but the rest of the dining options are so diverse that they give you a chance to taste many different varieties.",
+    "Label": [
+      [
+        "presentation",
+        "positive"
+      ],
+      [
+        "dining options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 129,
+    "Sentence": "The service is top-notch, and the diverse selection gives you a chance to taste many varieties.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "selection",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 130,
+    "Sentence": "The wine is top of the line, but the rest of the offerings are diverse, giving you a chance to taste so many different varieties.",
+    "Label": [
+      [
+        "wine",
+        "positive"
+      ],
+      [
+        "offerings",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 131,
+    "Sentence": "The presentation is top of the line, but the rest of the dishes are diverse, giving you a chance to taste many different varieties.",
+    "Label": [
+      [
+        "presentation",
+        "positive"
+      ],
+      [
+        "dishes",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 132,
+    "Sentence": "I've been to this restaurant more than a dozen times and when I'm craving for Sushi, Tempura or Miso Soup, this is the place to go.",
+    "Label": [
+      [
+        "Sushi",
+        "positive"
+      ],
+      [
+        "Tempura",
+        "positive"
+      ],
+      [
+        "Miso Soup",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 133,
+    "Sentence": "I've been to this restaurant more than a dozen times and when I'm craving for Pizza, Garlic Bread or Caesar Salad, this is the place to go.",
+    "Label": [
+      [
+        "Pizza",
+        "positive"
+      ],
+      [
+        "Garlic Bread",
+        "positive"
+      ],
+      [
+        "Caesar Salad",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 134,
+    "Sentence": "I've been to this restaurant more than a dozen times and when I'm craving Tacos, Quesadillas or Guacamole, this is the place to go.",
+    "Label": [
+      [
+        "Tacos",
+        "positive"
+      ],
+      [
+        "Quesadillas",
+        "positive"
+      ],
+      [
+        "Guacamole",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 135,
+    "Sentence": "I've been to this restaurant more than a dozen times and when I'm craving for Pasta, Bruschetta or Tiramisu, this is the place to go.",
+    "Label": [
+      [
+        "Pasta",
+        "positive"
+      ],
+      [
+        "Bruschetta",
+        "positive"
+      ],
+      [
+        "Tiramisu",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 136,
+    "Sentence": "I've been to this restaurant more than a dozen times and when I'm craving for sushi, this is the place to go.",
+    "Label": [
+      [
+        "sushi",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 137,
+    "Sentence": "I've been to this restaurant more than a dozen times and when I'm craving for pasta, this is the place to go.",
+    "Label": [
+      [
+        "pasta",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 138,
+    "Sentence": "I've been to this restaurant more than a dozen times and when I'm craving for pizza, this is the place to go.",
+    "Label": [
+      [
+        "pizza",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 139,
+    "Sentence": "I've been to this restaurant more than a dozen times and when I'm craving for burgers, this is the place to go.",
+    "Label": [
+      [
+        "burgers",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 140,
+    "Sentence": "The service was really great. We both had the steak, which was very good. We didn't much like the salad that came with, but the dessert was so good that neither of us cared.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ],
+      [
+        "steak",
+        "positive"
+      ],
+      [
+        "salad",
+        "negative"
+      ],
+      [
+        "dessert",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 141,
+    "Sentence": "The ambiance was really great. We both had the pasta, which was very good. We didn't much like the bread that came with, but the wine was so good that neither of us cared.",
+    "Label": [
+      [
+        "ambiance",
+        "positive"
+      ],
+      [
+        "pasta",
+        "positive"
+      ],
+      [
+        "bread",
+        "negative"
+      ],
+      [
+        "wine",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 142,
+    "Sentence": "The host was really great. We both had the salmon, which was very good. Although we didn't much like the rice that came with, the sauce was so good that neither of us cared.",
+    "Label": [
+      [
+        "host",
+        "positive"
+      ],
+      [
+        "salmon",
+        "positive"
+      ],
+      [
+        "rice",
+        "negative"
+      ],
+      [
+        "sauce",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 143,
+    "Sentence": "The experience was really great. We both had the chicken, which was very good. Although we didn't much like the vegetables that came with, the seasoning was so good that neither of us cared.",
+    "Label": [
+      [
+        "experience",
+        "positive"
+      ],
+      [
+        "chicken",
+        "positive"
+      ],
+      [
+        "vegetables",
+        "negative"
+      ],
+      [
+        "seasoning",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 144,
+    "Sentence": "Cocktails were great, and we both had the burger which was very good. We didn't much like the fries that came with it, but the burger was so good that neither of us cared.",
+    "Label": [
+      [
+        "Cocktails",
+        "positive"
+      ],
+      [
+        "burger",
+        "positive"
+      ],
+      [
+        "fries",
+        "negative"
+      ],
+      [
+        "burger",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 145,
+    "Sentence": "Atmosphere was great, we both enjoyed the pasta, though we weren't fans of the bread, but the pasta was so good that neither of us minded.",
+    "Label": [
+      [
+        "Atmosphere",
+        "positive"
+      ],
+      [
+        "pasta",
+        "positive"
+      ],
+      [
+        "bread",
+        "negative"
+      ],
+      [
+        "pasta",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 146,
+    "Sentence": "Service was great, and we both enjoyed the steak. Although we weren't fond of the dessert, the excellent steak made up for it.",
+    "Label": [
+      [
+        "Service",
+        "positive"
+      ],
+      [
+        "steak",
+        "positive"
+      ],
+      [
+        "dessert",
+        "negative"
+      ],
+      [
+        "steak",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 147,
+    "Sentence": "Risotto was great, we both had the salmon which was very good. We didn't much like the wine that came with, but the salmon was so good that neither of us cared.",
+    "Label": [
+      [
+        "Risotto",
+        "positive"
+      ],
+      [
+        "salmon",
+        "positive"
+      ],
+      [
+        "wine",
+        "negative"
+      ],
+      [
+        "salmon",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 148,
+    "Sentence": "The best thing I tasted was the steaks.",
+    "Label": [
+      [
+        "steaks",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 149,
+    "Sentence": "The best thing I tasted was the desserts.",
+    "Label": [
+      [
+        "desserts",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 150,
+    "Sentence": "The best thing I tasted was the seafood.",
+    "Label": [
+      [
+        "seafood",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 151,
+    "Sentence": "The best thing I tasted was the appetizers.",
+    "Label": [
+      [
+        "appetizers",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 152,
+    "Sentence": "The best thing I tasted was the chocolate lava cake.",
+    "Label": [
+      [
+        "chocolate lava cake",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 153,
+    "Sentence": "The best thing I tasted was the grilled prawns.",
+    "Label": [
+      [
+        "grilled prawns",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 154,
+    "Sentence": "The best thing I tasted was the truffle risotto.",
+    "Label": [
+      [
+        "truffle risotto",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 155,
+    "Sentence": "The best thing I tasted was the seared scallops.",
+    "Label": [
+      [
+        "seared scallops",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 156,
+    "Sentence": "The appetizers are more appealing than stuffy overpriced French restaurants.",
+    "Label": [
+      [
+        "appetizers",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 157,
+    "Sentence": "The main courses are more appealing than stuffy overpriced French restaurants.",
+    "Label": [
+      [
+        "main courses",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 158,
+    "Sentence": "The side dishes are more appealing than stuffy overpriced French restaurants.",
+    "Label": [
+      [
+        "side dishes",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 159,
+    "Sentence": "The dessert options are more appealing than stuffy overpriced French restaurants.",
+    "Label": [
+      [
+        "dessert options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 160,
+    "Sentence": "The desserts are more appealing than those in stuffy, overpriced French restaurants.",
+    "Label": [
+      [
+        "desserts",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 161,
+    "Sentence": "The ambiance is more appealing than stuffy overpriced French restaurants.",
+    "Label": [
+      [
+        "ambiance",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 162,
+    "Sentence": "The service is more appealing than stuffy overpriced French restaurants.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 163,
+    "Sentence": "The menu options are more appealing than stuffy overpriced French restaurants.",
+    "Label": [
+      [
+        "menu options",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 164,
+    "Sentence": "Prices are as expected.",
+    "Label": [
+      [
+        "Prices",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 165,
+    "Sentence": "Portions are appropriate.",
+    "Label": [
+      [
+        "Portions",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 166,
+    "Sentence": "Services are performing as expected.",
+    "Label": [
+      [
+        "Services",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 167,
+    "Sentence": "Prices are in line with expectations.",
+    "Label": [
+      [
+        "Prices",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 168,
+    "Sentence": "Service is above average.",
+    "Label": [
+      [
+        "Service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 169,
+    "Sentence": "Food quality is below the line.",
+    "Label": [
+      [
+        "Food quality",
+        "negative"
+      ]
+    ]
+  },
+  {
+    "ID": 170,
+    "Sentence": "Ambiance is far above average.",
+    "Label": [
+      [
+        "Ambiance",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 171,
+    "Sentence": "Other guests enjoyed pasta, grilled salmon and chocolate cake.",
+    "Label": [
+      [
+        "pasta",
+        "positive"
+      ],
+      [
+        "grilled salmon",
+        "positive"
+      ],
+      [
+        "chocolate cake",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 172,
+    "Sentence": "Other guests enjoyed sushi, Caesar salad and tiramisu.",
+    "Label": [
+      [
+        "sushi",
+        "positive"
+      ],
+      [
+        "Caesar salad",
+        "positive"
+      ],
+      [
+        "tiramisu",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 173,
+    "Sentence": "Other guests enjoyed burgers, garden salad and apple pie.",
+    "Label": [
+      [
+        "burgers",
+        "positive"
+      ],
+      [
+        "garden salad",
+        "positive"
+      ],
+      [
+        "apple pie",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 174,
+    "Sentence": "Other guests enjoyed lobster, Greek salad and cheesecake.",
+    "Label": [
+      [
+        "lobster",
+        "positive"
+      ],
+      [
+        "Greek salad",
+        "positive"
+      ],
+      [
+        "cheesecake",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 175,
+    "Sentence": "Other customers found the service to be excellent.",
+    "Label": [
+      [
+        "service",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 176,
+    "Sentence": "Largest and freshest delicious salads!",
+    "Label": [
+      [
+        "salads",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 177,
+    "Sentence": "The largest and freshest seafood is delicious!",
+    "Label": [
+      [
+        "seafood",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 178,
+    "Sentence": "The largest and freshest produce, which is delicious!",
+    "Label": [
+      [
+        "produce",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 179,
+    "Sentence": "The restaurant uses the largest and freshest ingredients, and the food is delicious!",
+    "Label": [
+      [
+        "ingredients",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 180,
+    "Sentence": "Largest selection of delicious items!",
+    "Label": [
+      [
+        "selection",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 181,
+    "Sentence": "The largest variety is delicious!",
+    "Label": [
+      [
+        "variety",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 182,
+    "Sentence": "The largest menu is delicious!",
+    "Label": [
+      [
+        "menu",
+        "positive"
+      ]
+    ]
+  },
+  {
+    "ID": 183,
+    "Sentence": "Service is average; even Baluchi's chain restaurant tastes better.",
+    "Label": [
+      [
+        "Service",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 184,
+    "Sentence": "Ambiance is average, and even the chain restaurant Baluchi's tastes better.",
+    "Label": [
+      [
+        "Ambiance",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 185,
+    "Sentence": "Price is average, and even the chain restaurant Baluchi's tastes better.",
+    "Label": [
+      [
+        "Price",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "ID": 186,
+    "Sentence": "Portions are average; even Baluchi's chain restaurant tastes better.",
+    "Label": [
+      [
+        "Portions",
+        "neutral"
+      ]
+    ]
+  }
+]
