@@ -1,0 +1,24 @@
+# DMR-ABSA —— 全仓库依赖清单（Python >= 3.9）
+# 安装: pip install -r requirements.txt
+
+# ---------- LLM API 客户端（数据合成 / 评估流水线） ----------
+openai>=1.0.0            # OpenAI 兼容接口（qnaigc_api.py 使用）
+
+# ---------- RAG 去重模块 ----------
+sentence-transformers>=2.2.0   # 句子嵌入（all-MiniLM-L6-v2）
+torch>=1.12.0                  # sentence-transformers 底层依赖
+transformers>=4.20.0
+
+# ---------- 数据处理 ----------
+numpy>=1.21.0
+scikit-learn>=1.5.0      # t-SNE 使用 max_iter 参数（1.5+ 才支持）
+spacy>=3.5.0             # 可选: 分词/句法特征（en_core_web_sm）
+# spaCy 英文模型: python -m spacy download en_core_web_sm
+
+# ---------- 可视化（visualization/） ----------
+matplotlib>=3.5.0
+seaborn>=0.11.0
+InstructorEmbedding>=1.0.0     # INSTRUCTOR 嵌入模型（t-SNE 语义可视化）
+
+# ---------- 评估流水线并发保护 ----------
+psutil>=5.9.0            # concurrency_protection.py 使用
