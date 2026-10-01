@@ -19,7 +19,7 @@ DMR-ABSA builds high-quality synthetic training data for low-resource (few-shot)
                          └──────────────┬──────────────────────────────┘
                                         │  prompts/*_{keypoint,instance}_prompts/
                                         ▼
-        Original ABSA data ────►  LLM  (any OpenAI-compatible API)
+        Original ABSA data ────►  LLM  (AI-compatible API)
                                         │  llm_output filled into prompt_gen
                                         ▼
                          ┌─────────────────────────────────────────────┐
